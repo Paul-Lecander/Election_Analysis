@@ -28,5 +28,5 @@ A Colorado Board of Elections employee has given you the following tasks to comp
     - Candidate Diana DeGette, who recived 73.8% of the vote and 272,892 number of votes
 
 ## Challenege Overview
-
+The purpose of the election analysis audit was to calculate the total votes and determine the winner. 
 ## Challenege Summary
