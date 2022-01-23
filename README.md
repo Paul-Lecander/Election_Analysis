@@ -13,6 +13,18 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
  Software: Python 3.7.6, Visual Studio Code, 1.63.2
  
+ ## Writing the Script to Print Election Results to the Command Line
+ In this portion, the objective was to use the following to print out the candidate and county election results to the command line:
+   - Repetition statements
+   - Conditional statements with logical operators
+   - Print statements
+   
+1.) To print the **Total Votes** for the election to the terminal, the following code was used
+![Print_TotalVotes_To_Terminal.png](https://github.com/Paul-Lecander/Election_Analysis/blob/main/Print_TotalVotes_To_Terminal.png)
+
+
+ 
+ 
  ## Summary
  The analysis of the election show that:
  - There were 369,711 votes cast in the election.
@@ -27,6 +39,3 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - The winner of the election was:
     - Candidate Diana DeGette, who recived 73.8% of the vote and 272,892 number of votes
 
-## Challenege Overview
-- The purpose of the election analysis audit was to calculate the total votes and determine the winner. 
-## Challenege Summary
