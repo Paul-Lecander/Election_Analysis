@@ -57,3 +57,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - The winner of the election was:
     - Candidate Diana DeGette, who recived 73.8% of the vote and 272,892 number of votes
 
+### Election-Audit Summary
+
+  This script could be used in the future for other elections, even if more candidates or votes were added. To accommodate for different formatting (i.e. candidate names and counties switching columns) of CSV files, the "row" in line 48 and 51 would need to be changed accordingly.
+
