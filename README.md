@@ -18,12 +18,17 @@ A Colorado Board of Elections employee has given you the following tasks to comp
    - Repetition statements
    - Conditional statements with logical operators
    - Print statements
-   
+### Candidate Results   
 1.) To print the **Total Votes** for the election to the terminal, the following code was used
 ![Print_TotalVotes_To_Terminal.png](https://github.com/Paul-Lecander/Election_Analysis/blob/main/Print_TotalVotes_To_Terminal.png)
 
+2.) To print each candidate's **Total Votes** and **Percentage of Votes** the following code was used to print to the terminal
+![CandidateVotes_PercentageVotes](https://github.com/Paul-Lecander/Election_Analysis/blob/main/CandidateVotes_PercentageVotes.png)
 
- 
+3.) Printing the **Winner of the Election**, **Winning Vote Count**, and **Winning Percentage of Votes** as a summary looked like this
+![CandidateSummary](https://github.com/Paul-Lecander/Election_Analysis/blob/main/CandidateSummary.png)
+
+### County Results 
  
  ## Summary
  The analysis of the election show that:
