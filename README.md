@@ -29,7 +29,17 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ![CandidateSummary](https://github.com/Paul-Lecander/Election_Analysis/blob/main/CandidateSummary.png)
 
 ### County Results 
- 
+1.) Each **County** and its **Vote Count** were printed to the terminal by using this code
+![CountyVotes](https://github.com/Paul-Lecander/Election_Analysis/blob/main/CountyTotalVotes.png)
+
+2.) Each **County** and its **Percentage of Total Votes** along with **County Votes** were printed to the terminal
+![CountyPercentage](https://github.com/Paul-Lecander/Election_Analysis/blob/main/CountyPercentage.png)
+
+3.) The **County** with the **Largest Number of Votes** was printed to the terminal by using the code below
+![CountyLargestTurnout](https://github.com/Paul-Lecander/Election_Analysis/blob/main/CountyLargestTurnout.png)
+
+
+
  ## Summary
  The analysis of the election show that:
  - There were 369,711 votes cast in the election.
